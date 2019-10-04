@@ -8,4 +8,4 @@ Details of the website :
 
 **Screenshot of the mock-up page**
 
-![](Capture.PNG)
+![](Capture.png)
