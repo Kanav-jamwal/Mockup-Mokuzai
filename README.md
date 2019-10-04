@@ -5,3 +5,7 @@ Details of the website :
 2. The website is fully responsive for small screen and large screen device's.
 3. Grid system is being used to make the website responsive.
 4. To run the mock up page open the index.html using chrome or any browser.
+
+**Screenshot of the mock-up page**
+
+![](Capture.PNG)
